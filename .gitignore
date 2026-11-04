@@ -1,0 +1,10 @@
+# Python 실행 캐시 및 체크포인트
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 대용량 원본 파일 및 html 제외
+*.html
+*.zip
+*.tar.gz
+data/raw/
