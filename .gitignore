@@ -1,3 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.html
+*.zip
+*.tar.gz
+data/raw/
 # Python 실행 캐시 및 체크포인트
 __pycache__/
 *.pyc
